@@ -1,4 +1,5 @@
 # ue22-p23-web-calculator
+SNK
 
 This assignement was given during ue22-p21 web course at Les Mines de Paris in 2022, (https://github.com/ue22-p23/web-intro) Licence CC BY-NC-ND Thierry Parmentelat.
 
